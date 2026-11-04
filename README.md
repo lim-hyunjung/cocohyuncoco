@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/SpringBoot-success?style=flat-square&logo=Spring&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Oracle-blue?style=flat-square&logo=Oracle&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/PostgreSQL-blue?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>        
+    <img src="https://img.shields.io/badge/OracleSQL-puple?style=flat-square&logo=OracleSQL&logoColor=white"/></a>
   </p>
 <br/>
 <hr style="height: 1px !important;">
@@ -24,6 +25,8 @@
     <img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>    
     <img src="https://img.shields.io/badge/vue3.js-green?style=flat-square&logo=vue.js&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Quasar-red?style=flat-square&logo=Quasar&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/TypeScript-red?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/React-red?style=flat-square&logo=React&logoColor=white"/></a>
   </p>
   
 <br/><br/>
